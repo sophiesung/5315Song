@@ -1,8 +1,7 @@
 {
   "data": [
     {
-      "Name": "",
-      "designation": "Accountant",
+      "name": "Ming Zhang",  
       "email":"mewemail@email.com"
     },
     {
