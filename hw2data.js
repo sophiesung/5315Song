@@ -3,11 +3,11 @@
     {
       "Name": "",
       "designation": "Accountant",
-      "email:mewemail@email.com"
+      "email":"mewemail@email.com"
     },
     {
       "name": "Brielle Williamson",
-      "email: hw2@su.edu"
+      "email": "hw2@su.edu"
     }
   ]
 }
