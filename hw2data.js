@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "email": "Accountant",
-      "department": "$170,750",
-      "tel": "2011/07/25",
-      "position": "Tokyo"
+      "name": "Alex Lee",
+      "email": "Alex@seattleu.edu",
+      "department": "Finance",
+      "tel": "2015621322",
+      "position": "Associate"
     }
     // {
     //   "name": "Adam Lee",

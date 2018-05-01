@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <employees>
+    <data>
+      <name>Alex Lee</name>
+      <email>Alex@seattleu.edu</email>
+      <department>Finance</department>
+      <tel>2015621322</tel>
+      <position>Associate</position>
+    </data>
+    <data>
+      <name>Adam Lee</name>
+      <email>Alee@seattleu.edu</email>
+      <department>Accounting</department>
+      <tel>2063410062</tel>
+      <position>Director</position>
+    </data>   
+    <data>
+      <name>Jason Kwon</name>
+      <email>Alex@seattleu.edu</email>
+      <department>Supply Chain</department>
+      <tel>3089252932</tel>
+      <position>Supply Planner</position>
+    </data>
+    <data>
+      <name>Thomas Smith</name>
+      <email>tsmith@seattleu.edu</email>
+      <department>Engineering</department>
+      <tel>4079920916</tel>
+      <position>Engineer</position>
+    </data>
+    <data>
+      <name>Chloe Simpson</name>
+      <email>cs2@seattleu.edu</email>
+      <department>Finance</department>
+      <tel>3525524252</tel>
+      <position>Associate</position>
+    </data>
+    <data>
+      <name>Kaitlin Weinber</name>
+      <email>kaiw@seattleu.edu</email>
+      <department>Operation</department>
+      <tel>6619091903</tel>
+      <position>Associate</position>
+    </data>
+    <data>
+      <name>Rob Apte</name>
+      <email>roba@seattleu.edu</email>
+      <department>Engineering</department>
+      <tel>3525524252</tel>
+      <position>Engineer</position>
+    </data>
+    <data>
+      <name>James Sloane</name>
+      <email>js2@seattleu.edu</email>
+      <department>Engineering</department>
+      <tel>552139141</tel>
+      <position>Engineer</position>
+    </data>
+    <data>
+      <name>Zoe Larry</name>
+      <email>zol@seattleu.edu</email>
+      <department>Program Management</department>
+      <tel>7721012932</tel>
+      <position>Program Manager</position>
+    </data>
+    <data>
+      <name>William Wias</name>
+      <email>wwiam@seattleu.edu</email>
+      <department>Engineering</department>
+      <tel>6239441195</tel>
+      <position>Engineer</position>
+    </data>
+    <data>
+      <name>Amanda Bliss</name>
+      <email>ambliss@seattleu.edu</email>
+      <department>Operation</department>
+      <tel>7113229023</tel>
+      <position>Analyst</position>
+    </data>
+    <data>
+      <name>Julia Slimane</name>
+      <email>jsli@seattleu.edu</email>
+      <department>Engineering</department>
+      <tel>4228770982</tel>
+      <position>Engineer</position>
+    </data>    
+    <data>
+      <name>Caroline Pico</name>
+      <email>capic@seattleu.edu</email>
+      <department>Supply Chain</department>
+      <tel>2067780981</tel>
+      <position>Supply Planner</position>
+    </data>     
+    <data>
+      <name>Daniel Nielson</name>
+      <email>dnielson@seattleu.edu</email>
+      <department>Finance</department>
+      <tel>2129348771</tel>
+      <position>Associate</position>
+    </data>       
+  </employees>
