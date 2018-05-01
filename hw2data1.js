@@ -2,11 +2,11 @@
   "data": [
     {
       "name": "Alex Lee",
-      "email": "alex@seattleu.edu",
+      "email": "Alex@seattleu.edu",
       "department": "Finance",
       "tel": "2015621322",
       "position": "Associate"
-    },
+    }
     {
       "name": "Adam Lee",
       "email": "alee@seattleu.edu",
@@ -14,8 +14,7 @@
       "tel": "2063410062",
       "position": "Director"
     },
-    {
-      "name": "Jason Kwon",
+    { "name": "Jason Kwon",
       "email": "jkwon@seattleu.edu",
       "department": "Supply Chain",
       "tel": "3089252932",
@@ -28,7 +27,7 @@
       "tel": "4079920916",
       "position": "Engineer"
     },
-    {
+    { 
       "name": "Chloe Simpson",
       "email": "cs2@seattleu.edu",
       "department": "Finance",
@@ -57,18 +56,18 @@
       "position": "Engineer"
     },
     {
-      "name": "William Wias",
-      "email": "wwiam@seattleu.edu",
-      "department": "Engineering",
-      "tel": "6239441195",
-      "position": "Engineer"
-    },
-    {
       "name": "Zoe Larry",
       "email": "zol@seattleu.edu",
       "department": "Program Management",
       "tel": "7721012932",
       "position": "Program Manager"
+    },
+    {
+      "name": "William Wias",
+      "email": "wwiam@seattleu.edu",
+      "department": "Engineering",
+      "tel": "6239441195",
+      "position": "Engineer"
     },
     {
       "name": "Amanda Bliss",
@@ -97,6 +96,7 @@
       "department": "Finance",
       "tel": "2129348771",
       "position": "Associate"
-    },
+    }   
   ]
 }
+
