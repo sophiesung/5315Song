@@ -6,7 +6,7 @@
       "department": "Business Strategy",
       "tel": "3012358921",
       "position": "Manager"
-    },
+    }
     // {
     //   "name": "Adam Lee",
     //   "email": "alee@seattleu.edu",
