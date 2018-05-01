@@ -22,19 +22,18 @@
       "position": "Supply Planner"
     },
     {
-      "name": "Thomas Smith",
-      "email": "tsmith@seattleu.edu",
-      "department": "Engineering",
-      "tel": "4079920916",
-      "position": "Engineer"
-    }
-    {
       "name": "Chloe Simpson",
       "email": "cs2@seattleu.edu",
       "department": "Finance",
       "tel": "3525524252",
       "position": "Associate"
-    },
+    }
+     {
+      "name": "Rob Apte",
+      "email": "roba@seattleu.edu",
+      "department": "Engineering",
+      "tel": "3089252932",
+      "position": "Engineer"
     {
       "name": "Kaitlin Weinber",
       "email": "kaiw@seattleu.edu",
@@ -43,19 +42,13 @@
       "position": "Associate"
     },
     {
-      "name": "Rob Apte",
-      "email": "roba@seattleu.edu",
-      "department": "Engineering",
-      "tel": "3089252932",
-      "position": "Engineer"
-    }
-    {
       "name": "James Sloane",
       "email": "js2@seattleu.edu",
       "department": "Engineering",
       "tel": "5521391415",
       "position": "Engineer"
     }
+
     // {
     //   "name": "William Wias",
     //   "email": "wwiam@seattleu.edu",
