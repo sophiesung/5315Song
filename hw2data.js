@@ -55,6 +55,28 @@
       "department": "Engineering",
       "tel": "5521391415",
       "position": "Engineer"
+    },
+    {
+      "name": "William Wias",
+      "email": "wwiam@seattleu.edu",
+      "department": "Finance",
+      "tel": "6239441195",
+      "position": "Associate"
+    },
+    {
+      "name": "Zoe Larry",
+      "email": "zol@seattleu.edu",
+      "department": "Engineering",
+      "tel": "7721012935",
+      "position": "Engineer"
+    },
+    {
+      "name": "Amanda Bliss",
+      "email": "ambliss@seattleu.edu",
+      "department": "Finance",
+      "tel": "7113229023",
+      "position": "Associate"
     }
+
   ]
 }
