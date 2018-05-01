@@ -1,111 +1,102 @@
 {
   "data": [
     {
-      "name": "Susan Stone",  
-      "email":"ss1@seattleu.edu"
-      "department":"Finance"
-      "tel":"425-567-2997"
-      "position":"Student Intern"
-    },
-    {
       "name": "Bruce Willies",
-      "email": "brw4@seattleu.edu"
-      "department":"Business Strategy"
-      "tel":"301-235-8921"
-      "position":"Manager"
+      "email": "brw4@seattleu.edu",
+      "department": "Business Strategy",
+      "tel": "3012358921",
+      "position": "Manager"
     },
     {
       "name": "Adam Lee",
-      "email": "alee@seattleu.edu"
-      "department":"Accounting"
-      "tel":"206-341-0062"
-      "position":"Director"
+      "email": "alee@seattleu.edu",
+      "department": "Accounting",
+      "tel": "2063410062",
+      "position": "Director"
     },
-    { "name":"Jason Kwon"
-      "email": "jkwon@seattleu.edu"
-      "department":"Supply Chain"
-      "tel":"308-925-2932"
-      "position":"Supply Planner"
+    { "name": "Jason Kwon",
+      "email": "jkwon@seattleu.edu",
+      "department": "Supply Chain",
+      "tel": "3089252932",
+      "position": "Supply Planner"
     },
     {
-      "name": "Thomas Smith"
-      "email": "tsmith@seattleu.edu"
-      "department":"Engineering"
-      "tel":"407-992-0916"
-      "position":"Engineer"
+      "name": "Thomas Smith",
+      "email": "tsmith@seattleu.edu",
+      "department": "Engineering",
+      "tel": "4079920916",
+      "position": "Engineer"
     },
     { 
-      "name": "Chloe Simpson"
-      "email":"cs2@seattleu.edu"
-      "department":"Finance"
-      "tel":"352-552-4252"
-      "position":"Associate"
+      "name": "Chloe Simpson",
+      "email": "cs2@seattleu.edu",
+      "department": "Finance",
+      "tel": "3525524252",
+      "position": "Associate"
     },
     {
-      "name": "Kaitlin Weinber"
-      "email": "kaiw@seattleu.edu"
-      "department":"Operation"
-      "tel":"661-909-1903"
-      "position":"Associate"
+      "name": "Kaitlin Weinber",
+      "email": "kaiw@seattleu.edu",
+      "department": "Operation",
+      "tel": "6619091903",
+      "position": "Associate"
     },
     {
-      "name": "Rob Apte"
-      "email": "roba@seattleu.edu"
-      "department":"Engineering"
-      "tel":"308-925-2932"
-      "position":"Engineer"
+      "name": "Rob Apte",
+      "email": "roba@seattleu.edu",
+      "department": "Engineering",
+      "tel": "3089252932",
+      "position": "Engineer"
     },
     {
-      "name":"James Sloane"
-      "email": "js2@seattleu.edu"
-      "department":"Engineering"
-      "tel":"552-139-1415"
-      "position":"Engineer"
+      "name": "James Sloane",
+      "email": "js2@seattleu.edu",
+      "department": "Engineering",
+      "tel": "5521391415",
+      "position": "Engineer"
     },
     {
-      "name":"Zoe Larry"
-      "email": "zol@seattleu.edu"
-      "department":"Program Management"
-      "tel":"772-101-2932"
-      "position":"Program Manager"
+      "name": "Zoe Larry",
+      "email": "zol@seattleu.edu",
+      "department": "Program Management",
+      "tel": "7721012932",
+      "position": "Program Manager"
     },
     {
-      "name": "William Wias"
-      "email": "wwiam@seattleu.edu"
-      "department":"Engineering"
-      "tel":"623-944-1195"
-      "position":"Engineer"
+      "name": "William Wias",
+      "email": "wwiam@seattleu.edu",
+      "department": "Engineering",
+      "tel": "6239441195",
+      "position": "Engineer"
     },
     {
-      "name": "Amanda Bliss"
-      "email": "ambliss@seattleu.edu"
-      "department":"Operation"
-      "tel":"711-322-9023"
-      "position":"Analyst"
+      "name": "Amanda Bliss",
+      "email": "ambliss@seattleu.edu",
+      "department": "Operation",
+      "tel": "7113229023",
+      "position": "Analyst"
     },
     {
-      "name": "Julia Slimane"
-      "email": "jsli@seattleu.edu"
-      "department": "Engineering"
-      "tel":"422-877-0982"
-      "position":"Engineer"
+      "name": "Julia Slimane",
+      "email": "jsli@seattleu.edu",
+      "department": "Engineering",
+      "tel": "4228770982",
+      "position": "Engineer"
     },
     {
-      "name":"Caroline Pico"
-      "email": "capic@seattleu.edu"
-      "department": "Supply Chain"
-      "tel":"206-778-0981"
-      "position":"Supply Planner"
+      "name": "Caroline Pico",
+      "email": "capic@seattleu.edu",
+      "department": "Supply Chain",
+      "tel": "2067780981",
+      "position": "Supply Planner"
     },
     {
-      "name":"Daniel Nielson"
-      "email":"dnielson@seattleu.edu"
-      "department":"Finance"
-      "tel":"212-934-8771"
-      "position":"Associate"
+      "name": "Daniel Nielson",
+      "email": "dnielson@seattleu.edu",
+      "department": "Finance",
+      "tel": "2129348771",
+      "position": "Associate"
     }   
-
-
-
   ]
 }
+
