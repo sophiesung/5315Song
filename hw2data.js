@@ -76,7 +76,27 @@
       "department": "Finance",
       "tel": "7113229023",
       "position": "Associate"
+    },
+    {
+      "name": "Julia Slimane",
+      "email": "sli@seattleu.edu",
+      "department": "Engineering",
+      "tel": "4228770982",
+      "position": "Engineer"
+    },
+    {
+      "name": "Caroline Pico",
+      "email": "capic@seattleu.edu",
+      "department": "Engineering",
+      "tel": "2067780985",
+      "position": "Engineer"
+    },
+    {
+      "name": "Daniel Nielson",
+      "email": "nielson@seattleu.edu",
+      "department": "Finance",
+      "tel": "2129348771",
+      "position": "Associate"
     }
-
   ]
 }
